@@ -1,0 +1,5 @@
+D:\Learning\Dot Net\WebFormsApplication\ProjectFees\bin\Debug\ProjectFees.dll
+D:\Learning\Dot Net\WebFormsApplication\ProjectFees\bin\Debug\ProjectFees.pdb
+D:\Learning\Dot Net\WebFormsApplication\ProjectFees\obj\Debug\ProjectFees.dll
+D:\Learning\Dot Net\WebFormsApplication\ProjectFees\obj\Debug\ProjectFees.pdb
+D:\Learning\Dot Net\WebFormsApplication\ProjectFees\obj\Debug\ProjectFees.csprojResolveAssemblyReference.cache
