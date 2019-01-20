@@ -8,7 +8,8 @@
       <link type="text/css" href="Content/bootstrap.css" rel="stylesheet" />
 </head>
 <body>
-    <h2>Page Life Cycle Events</h2>
+    <form runat="server">
+            <h2>Page Life Cycle Events</h2>
     <p>
         <asp:Label runat="server" ID="lblInit"></asp:Label>
     </p>
@@ -24,6 +25,8 @@
     <p>
         <asp:Label runat="server" ID="lblButtonEvent"></asp:Label>
     </p>
-    <asp:Button runat="server" ID="btnSubmit" CssClass="btn btn-primary" OnClick="btnSubmit_Click"/>
+    <asp:Button runat="server" ID="btnSubmit" CssClass="btn btn-primary" OnClick="btnSubmit_Click" Text="Submit"/>
+        </form>
+
 </body>
 </html>
